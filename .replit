@@ -1,0 +1,3 @@
+run = "sh ./bin/run.sh && php -S 0.0.0.0:8000 -t ."
+
+entrypoint = "index.php"
